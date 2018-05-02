@@ -51,7 +51,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:ems="10"
-        android:inputType="number"
+        android:inputType="numberDecimal"
         app:layout_constraintTop_toBottomOf="@+id/rate"
         tools:layout_editor_absoluteX="0dp" />
 
